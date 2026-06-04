@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Eel](https://img.shields.io/badge/Eel-Web%20Framework-green)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-orange)
-![Status](https://img.shields.io/badge/Project-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📖 Overview
@@ -199,12 +198,6 @@ source venv/bin/activate
 ```
 
 ### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-If requirements.txt is unavailable:
 
 ```bash
 pip install eel
